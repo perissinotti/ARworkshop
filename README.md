@@ -12,7 +12,7 @@ In this repository you will find all the files that contain the material that wa
 ### Presentation
 To view the Presentation, please click [here](https://docs.google.com/presentation/d/e/2PACX-1vSV_LXkpBjZXiu2--LwwopvlHcABnHKG6X13Z-FEmLVR-kv8xOdlSLWDqIaVUHj5IXD-OCdSK8fwRxV/pub?start=false&loop=false&delayms=3000&slide=id.p1).
 
-### Whiteboards & Ideas
+### Whiteboard Ideas
 * [whiteboard1.jpg](https://github.com/perissinotti/ARworkshop/blob/master/whiteboards/whiteboard1.jpg)
 * [whiteboard2.jpg](https://github.com/perissinotti/ARworkshop/blob/master/whiteboards/whiteboard2.jpg)
 * [whiteboard3.jpg](https://github.com/perissinotti/ARworkshop/blob/master/whiteboards/whiteboard3.jpg)
