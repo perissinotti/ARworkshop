@@ -20,3 +20,5 @@ To view the Presentation, please click [here](https://docs.google.com/presentati
 * [whiteboard5.jpg](https://github.com/perissinotti/ARworkshop/blob/master/whiteboards/whiteboard5.jpg)
 
 Thank you for attending the Workshop and Enjoy! :octocat: 
+
+![slide0]()
