@@ -21,4 +21,4 @@ To view the Presentation, please click [here](https://docs.google.com/presentati
 
 Thank you for attending the Workshop and Enjoy! :octocat: 
 
-![slide0]()
+![slide0](https://github.com/perissinotti/ARworkshop/blob/master/other/thank_you.png
