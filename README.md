@@ -1,12 +1,12 @@
 # Introduction to Augmented Reality (AR) for Teaching and Learning  :octocat: 
 
 In this repository you will find all the files that contain the material that was shared during the workshop.
-![slide0](https://github.com/perissinotti/ARworkshop/blob/master/AR_workshop.jpg)
+![slide0](https://github.com/perissinotti/ARworkshop/blob/master/other/AR_workshop.jpg)
 
 ### Files
-* [AR_instructions.pdf](https://github.com/perissinotti/ARworkshop/blob/master/AR_instructions.pdf)
-* [AR_activities.pdf](https://github.com/perissinotti/ARworkshop/blob/master/AR_activities.pdf)
-* [zika-paper-model_b.pdf](https://github.com/perissinotti/ARworkshop/blob/master/zika-paper-model_b.pdf)
+* [AR_instructions.pdf](https://github.com/perissinotti/ARworkshop/blob/master/activities/AR_instructions.pdf)
+* [AR_activities.pdf](https://github.com/perissinotti/ARworkshop/blob/master/activities/AR_activities.pdf)
+* [zika-paper-model_b.pdf](https://github.com/perissinotti/ARworkshop/blob/activities/master/zika-paper-model_b.pdf)
 * [handout_AR.pdf](https://github.com/perissinotti/ARworkshop/blob/master/handout_AR.pdf)
 
 ### Presentation
