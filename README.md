@@ -1,4 +1,5 @@
 # Introduction to Augmented Reality (AR) for Teaching and Learning  :octocat: 
+![GitHub Logo](/images/logo.png)
 
 In this repository you will find all the files that contain the material that was shared in the workshop.
 ![alt text](https://github.com/perissinotti/ARworkshop/blob/master/AR_workshop.jpg)
