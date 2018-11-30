@@ -19,4 +19,4 @@ To view the Presentation, please click [here](https://docs.google.com/presentati
 * [whiteboard4.jpg](https://github.com/perissinotti/ARworkshop/blob/master/whiteboard4.jpg)
 * [whiteboard5.jpg](https://github.com/perissinotti/ARworkshop/blob/master/whiteboard5.jpg)
 
-Enjoy! :octocat: 
+Thank you for attending the Workshop and Enjoy! :octocat: 
