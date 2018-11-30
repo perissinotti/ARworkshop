@@ -5,7 +5,7 @@ In this repository you will find all the files that contain the material that wa
 
 ### Files
 * AR_instructions.pdf
-* AR_activities.pdf
+* [AR_activities.pdf](https://github.com/perissinotti/ARworkshop/blob/master/AR_activities.pdf)
 * zika-paper-model_b.pdf
 * handout_AR.pdf
 
