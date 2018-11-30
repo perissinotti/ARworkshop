@@ -1,6 +1,7 @@
 # Introduction to Augmented Reality (AR) for Teaching and Learning
 
 In this repository you will find all the files that contain the material that was shared in the workshop.
+![alt text](https://github.com/perissinotti/ARworkshop/blob/master/AR_workshop.jpg)
 
 ### Files
 * AR_instructions.pdf
@@ -13,6 +14,5 @@ To view the Presentation, please click [here](https://docs.google.com/presentati
 
 ### Whiteboards & Ideas
 
-![alt text](https://github.com/perissinotti/ARworkshop/blob/master/AR_workshop.jpg)
 
 
